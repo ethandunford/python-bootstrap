@@ -73,6 +73,3 @@ Apache License, Version 2.0
 ## Contributors
 
 - [ethandunford](https://github.com/ethandunford) Ethan Dunford - Creator
-
-```
-```
